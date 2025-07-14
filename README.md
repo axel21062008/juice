@@ -1,6 +1,15 @@
 <!doctype html>
 <html>
-<style></style>
+<style>
+strong{font-weight:bold;}
+h1{color:yellow;
+background-color:blue;
+text-align:center;}
+h2{text-align:center;
+color:pink;}
+ul{background-color:yellow;
+color:green;}
+section{color:blue;}</style>
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet"
