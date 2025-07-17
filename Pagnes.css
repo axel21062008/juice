@@ -1,0 +1,33 @@
+strong{font-weight:bold;}
+h1{color:yellow;
+background-color:blue;
+text-align:center;
+size:200px;}
+.a li{color:red;
+background-color:green;
+list-style-type:none;
+display:inline;
+size:200px;
+gap:20px;
+}
+.e{gap:20px;
+color:yellow;
+background-color:green;
+text-align:left;
+display:inline;
+size:100px;
+padding:15px;
+
+}
+button{color:yellow;
+background-color:green;
+}
+.g{
+	list-style-type:none;
+}
+body{
+	background-color:lightgrey;
+}
+.f{color:green;
+background-color:lightblue;
+}
