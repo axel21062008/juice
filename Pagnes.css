@@ -31,3 +31,9 @@ body{
 .f{color:green;
 background-color:lightblue;
 }
+#p{color:green;
+  background-color:lightblue;
+  size:100px;
+  padding:10px;
+  text-align:center;
+  }
