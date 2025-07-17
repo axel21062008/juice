@@ -12,7 +12,6 @@ section{color:blue;}
 .a li{color:red;
 background-color:green;
 list-style-type:none;
-display:inline;
 size:200px;
 gap:20px;
 }
@@ -20,7 +19,6 @@ gap:20px;
 color:yellow;
 background-color:green;
 text-align:left;
-display:inline;
 size:100px;
 padding:15px;
 
