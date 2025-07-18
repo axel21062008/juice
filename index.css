@@ -22,6 +22,7 @@ text-align:left;
 size:100px;
 padding:15px;
 border:solid 10px yellow;
+border-radius:10px;
 }
 .d{list-style-type:none;}
 .c{color:green;
