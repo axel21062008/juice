@@ -30,4 +30,13 @@ size:100px;}
 img{
   border-radius: 0 30px 0 30px;
 }
+.e:hover {
+transform: rotate(45deg) scale(1.2);
+  background: gold;
+  backbround-color: skyblue;
+  transition: 2s;
+text-align:left;
+size:100px;
+padding: 5px 10px 5px 10px;
+}
   
