@@ -20,6 +20,7 @@ color:yellow;
 background-color:green;
 text-align:left;
 size:100px;
+padding: 5px 10px 5px 10px;
 }
 .d{list-style-type:none;}
 .c{color:green;
