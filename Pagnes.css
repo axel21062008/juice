@@ -17,7 +17,7 @@ size:100px;
 padding:5px 10px 5px 10px;
 }
 .e:hover {
-transform: rotate(90deg) scale(0.5);
+transform: rotate(360deg) scale(0.5);
   background: gold;
   backbround-color: skyblue;
   transition: 2s;
